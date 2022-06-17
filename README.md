@@ -1,5 +1,5 @@
 # MarthaRaveCookies-Inventory-Manager
-A customized inventory management platform that makes the business owner's job far easier
+A customized inventory management platform that streamlines operations for a local bakery business
 
 This project uses Google Scripts, Forms and Sheets to collect orders, process the orders and display them to the business owner.
 
